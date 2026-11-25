@@ -1,0 +1,6 @@
+(bytepre :lure lures_the_enemy :stun stuns_the_monster :trap traps_the_monster)
+(dms 7)
+(bytepre :epee stab_with_the_epee :ishi throw_a_stone :bache use_a_shield_or_trap)
+(dms 7)
+(bytepre :rum drink_some_rum :chant ho_ho_ho :set_sail set_sail_with_fourty_thieves)
+(dms 7)
