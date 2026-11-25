@@ -1,4 +1,4 @@
-# Frenayne Aduse Secoba
+# Frenayne Aduce Secoba
 Coming soon, mostly claiming the namespace.
 
 ## Longterm Name
